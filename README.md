@@ -6,11 +6,15 @@ Welcome to the ASL Sign Language Detection Using CNN project! This repository co
 The ASL Sign Language Detection Using CNN project aims to bridge communication gaps by recognizing ASL gestures using computer vision and deep learning. This project uses a trained CNN model to classify ASL signs into different categories and display the results in real-time.
 
 ---
-🚀 Features
-Real-Time ASL Gesture Recognition: Capture hand gestures through a webcam and classify them in real-time.
-Pre-Trained CNN Model: A robust CNN model trained on ASL sign data.
-User-Friendly Interface: Simple and intuitive user experience with real-time feedback.
-High Accuracy: Achieve high accuracy with optimized model architecture.
+🚀 **Features**
+**Real-Time ASL Gesture Recognition:** Capture hand gestures through a webcam and classify them in real-time.
+
+**Pre-Trained CNN Model:** A robust CNN model trained on ASL sign data.
+
+**User-Friendly Interface:** Simple and intuitive user experience with real-time feedback.
+
+**High Accuracy:** Achieve high accuracy with optimized model architecture.
+
 ---
 
 ## Dataset
