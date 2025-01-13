@@ -44,8 +44,7 @@ To get started with the project, follow these steps:
 1. Clone the repository:
     ```bash
     git clone https://github.com/Abraham-Samuel470/ASL_SignLanguageDetectionUsingCNN.git
-cd ASL_SignLanguageDetectionUsingCNN
-
+    cd ASL_SignLanguageDetectionUsingCNN
     ```
 2. Interact with the System:
    
