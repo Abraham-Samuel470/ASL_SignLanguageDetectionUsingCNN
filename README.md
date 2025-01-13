@@ -106,15 +106,24 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 --
 ASL_SignLanguageDetectionUsingCNN/
+
 │
 ├── data/                     # ASL dataset folder
+
 ├── model/                    # Folder containing trained model weights and architecture
+
 ├── Model_1(json)signlanguagedetectionmodel48x48.json   # Model architecture file
+
 ├── Model_1signlanguagedetectionmodel48x48.h5           # Trained model weights
+
 ├── collectdata.py            # Script to collect and prepare the ASL dataset
+
 ├── split.py                  # Script to split dataset into training and testing sets
+
 ├── livedetection.py          # Script for real-time gesture detection using webcam
+
 ├── README.md                 # Project documentation
+
 └── requirements.txt          # List of required Python packages
 
 
