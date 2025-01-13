@@ -66,6 +66,7 @@ cd ASL_SignLanguageDetectionUsingCNN
 ---
 
 ## 🎮 Usage
+
 To run the ASL Sign Language Detection:
 
 1. Start the Detection:
@@ -87,7 +88,9 @@ To run the ASL Sign Language Detection:
 ---
 
 🛠 **Contributing** 
+
 We welcome contributions to enhance the project! Here's how you can contribute:
+
 1.Fork the repository.
 
 2.Create a new branch for your feature or bug fix.
@@ -97,15 +100,33 @@ We welcome contributions to enhance the project! Here's how you can contribute:
 4.Open a pull request with a detailed description of your changes.
 
 ---
-## Directory Structure
-```plaintext
+
+📄 License
+
+This project is licensed under the MIT License. You are free to use, modify, and distribute this software as per the license terms.
+
+--
 ASL_SignLanguageDetectionUsingCNN/
 │
-├── data/                     # Dataset folder
-├── model/                    # Trained model weights
-├── train_model.py            # Script to train the CNN model
-├── test_model.py             # Script to test the model on static images
-├── predict_realtime.py       # Script for real-time gesture detection
-├── utils/                    # Utility scripts for preprocessing, etc.
+├── data/                     # ASL dataset folder
+├── model/                    # Folder containing trained model weights and architecture
+│   ├── Model_1(json)signlanguagedetectionmodel48x48.json   # Model architecture file
+│   ├── Model_1signlanguagedetectionmodel48x48.h5           # Trained model weights
+├── collectdata.py            # Script to collect and prepare the ASL dataset
+├── split.py                  # Script to split dataset into training and testing sets
+├── livedetection.py          # Script for real-time gesture detection using webcam
 ├── README.md                 # Project documentation
-└── requirements.txt          # List of required Python packages(tenserflow,etc)
+└── requirements.txt          # List of required Python packages
+
+
+
+---
+
+📧 Contact
+
+For any questions, suggestions, or feedback, please contact:
+
+Name: Abraham Samuel
+GitHub: Abraham-Samuel470
+Email: [samuak2004@gmail.com]
+
