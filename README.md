@@ -7,6 +7,7 @@ The ASL Sign Language Detection Using CNN project aims to bridge communication g
 
 ---
 🚀 **Features**
+
 **Real-Time ASL Gesture Recognition:** Capture hand gestures through a webcam and classify them in real-time.
 
 **Pre-Trained CNN Model:** A robust CNN model trained on ASL sign data.
