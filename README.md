@@ -105,6 +105,8 @@ We welcome contributions to enhance the project! Here's how you can contribute:
 This project is licensed under the MIT License. You are free to use, modify, and distribute this software as per the license terms.
 
 --
+
+## Directory Structure
 ASL_SignLanguageDetectionUsingCNN/
 ```plaintext
 |
@@ -117,8 +119,6 @@ ASL_SignLanguageDetectionUsingCNN/
 ├── livedetection.py          # Script for real-time gesture detection using webcam
 ├── README.md                 # Project documentation
 └── requirements.txt          # List of required Python packages
-
-
 ---
 
 📧 Contact
