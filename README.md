@@ -2,7 +2,7 @@
 Welcome to the ASL Sign Language Detection Using CNN project! This repository contains a Convolutional Neural Network (CNN) model designed to recognize American Sign Language (ASL) gestures in real-time through webcam input.
 
 ---
-🌟 Project Description
+🌟  **Project Description :** 
 The ASL Sign Language Detection Using CNN project aims to bridge communication gaps by recognizing ASL gestures using computer vision and deep learning. This project uses a trained CNN model to classify ASL signs into different categories and display the results in real-time.
 
 ---
