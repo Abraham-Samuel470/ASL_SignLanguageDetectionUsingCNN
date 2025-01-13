@@ -6,11 +6,11 @@ Welcome to the ASL Sign Language Detection Using CNN project! This repository co
 The ASL Sign Language Detection Using CNN project aims to bridge communication gaps by recognizing ASL gestures using computer vision and deep learning. This project uses a trained CNN model to classify ASL signs into different categories and display the results in real-time.
 
 ---
-## Features
-- Trains a CNN model on ASL dataset images.
-- Predicts ASL letters or words in real-time or from static images.
-- Supports customization for additional gestures or extended datasets.
-
+🚀 Features
+Real-Time ASL Gesture Recognition: Capture hand gestures through a webcam and classify them in real-time.
+Pre-Trained CNN Model: A robust CNN model trained on ASL sign data.
+User-Friendly Interface: Simple and intuitive user experience with real-time feedback.
+High Accuracy: Achieve high accuracy with optimized model architecture.
 ---
 
 ## Dataset
@@ -34,7 +34,7 @@ Suggested Dataset Sources:
 
 ---
 
-## Setup and Installation
+## 📥 Installation and Set-up
 1. Clone the repository:
     ```bash
     git clone https://github.com/yourusername/ASL_SignLanguageDetectionUsingCNN.git
@@ -51,13 +51,14 @@ Suggested Dataset Sources:
 
 ---
 
-## Usage
-1. Train the CNN model:
+## 🎮 Usage
+To run the ASL Sign Language Detection:
+
+1. Start the Detection:
     ```bash
-    python train_model.py
+    python livedetection.py
+
     ```
-    - This script loads the dataset, preprocesses it, and trains a CNN model.
-    - Model weights are saved in the `model/` directory.
 
 2. Test the model with static images:
     ```bash
