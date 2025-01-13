@@ -106,6 +106,17 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 ---
 
+📧 Contact
+
+For any questions, suggestions, or feedback, please contact:
+
+Name: Abraham Samuel
+
+GitHub: Abraham-Samuel470
+
+Email: [samuak2004@gmail.com]
+
+---
 ## Directory Structure
 ASL_SignLanguageDetectionUsingCNN/
 ```plaintext
@@ -121,13 +132,5 @@ ASL_SignLanguageDetectionUsingCNN/
 └── requirements.txt          # List of required Python packages
 ---
 
-📧 Contact
 
-For any questions, suggestions, or feedback, please contact:
-
-Name: Abraham Samuel
-
-GitHub: Abraham-Samuel470
-
-Email: [samuak2004@gmail.com]
 
