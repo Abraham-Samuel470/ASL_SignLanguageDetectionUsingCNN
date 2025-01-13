@@ -40,9 +40,12 @@ Suggested Dataset Sources:
 ---
 
 ## 📥 Installation and Set-up
+To get started with the project, follow these steps:
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/ASL_SignLanguageDetectionUsingCNN.git
+    git clone https://github.com/Abraham-Samuel470/ASL_SignLanguageDetectionUsingCNN.git
+cd ASL_SignLanguageDetectionUsingCNN
+
     ```
 2. Interact with the System:
    
@@ -71,19 +74,27 @@ To run the ASL Sign Language Detection:
 
     ```
 
-2. Test the model with static images:
-    ```bash
-    python test_model.py --image path/to/image.jpg
-    ```
+2. Interact with the System:
+   
+    -Show different ASL signs in front of your webcam.
+   
+    -The system will recognize the gesture and display the corresponding letter or action.
 
-3. Predict gestures in real-time:
-    ```bash
-    python predict_realtime.py
-    ```
-    - Opens a webcam feed and predicts ASL gestures in real-time.
+3. Exit the Application:
+   
+   -Press `ESC` or close the window to stop the detection.
 
 ---
 
+🛠 **Contributing** 
+We welcome contributions to enhance the project! Here's how you can contribute:
+
+1.Fork the repository.
+2.Create a new branch for your feature or bug fix.
+3.Commit your changes and push them to your fork.
+4.Open a pull request with a detailed description of your changes.
+
+---
 ## Directory Structure
 ```plaintext
 ASL_SignLanguageDetectionUsingCNN/
