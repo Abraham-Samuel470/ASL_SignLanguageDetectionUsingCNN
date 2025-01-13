@@ -45,14 +45,20 @@ Suggested Dataset Sources:
     git clone https://github.com/yourusername/ASL_SignLanguageDetectionUsingCNN.git
     ```
 2. Interact with the System:
-    -Show different ASL signs in front of your webcam.
-    -The system will recognize the gesture and display the corresponding letter or action.
    
-4. Install the required dependencies:
+    -Show different ASL signs in front of your webcam.
+   
+    -The system will recognize the gesture and display the corresponding letter or action.
+
+4. Exit the Application:
+   
+   -Press `ESC` or close the window to stop the detection.
+   
+5. Install the required dependencies:
     ```bash
     pip install tensorflow keras numpy matplotlib opencv-python scikit-learn
     ```
-5. Download or prepare your ASL dataset and place it in the `data` directory.
+6. Download or prepare your ASL dataset and place it in the `data` directory or create your own data directory like how i create mine as `ASLdatesheet`.
 
 ---
 
