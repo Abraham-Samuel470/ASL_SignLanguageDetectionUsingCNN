@@ -1,0 +1,7 @@
+You can download a specific version or by default the lastest one.
+pip install tenseorflow or tensorflow==2.12.0
+pip install keras or keras==2.12.0
+pip install numpy or numpy==1.24.2
+pip install matplotlib or matplotlib==3.7.1
+pip install opencv-python or opencv-python==4.7.0.72
+pip install scikit-learn or scikit-learn==1.2.2
