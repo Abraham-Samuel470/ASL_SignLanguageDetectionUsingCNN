@@ -88,10 +88,12 @@ To run the ASL Sign Language Detection:
 
 🛠 **Contributing** 
 We welcome contributions to enhance the project! Here's how you can contribute:
-
 1.Fork the repository.
+
 2.Create a new branch for your feature or bug fix.
+
 3.Commit your changes and push them to your fork.
+
 4.Open a pull request with a detailed description of your changes.
 
 ---
